@@ -13,6 +13,14 @@ public class testy2 {
     int nr;
     String nazwa;
 
+    public int getNr() {
+        return nr;
+    }
+
+    public String getNazwa() {
+        return nazwa;
+    }
+
     public void setNr(int nr) {
         this.nr = nr;
     }
