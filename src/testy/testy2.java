@@ -12,5 +12,13 @@ package testy;
 public class testy2 {
     int nr;
     String nazwa;
+
+    public void setNr(int nr) {
+        this.nr = nr;
+    }
+
+    public void setNazwa(String nazwa) {
+        this.nazwa = nazwa;
+    }
     
 }
